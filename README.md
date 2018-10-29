@@ -1,0 +1,2 @@
+# netbeans
+all netbeans projects
